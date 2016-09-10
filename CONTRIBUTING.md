@@ -1,3 +1,6 @@
+For any and all tickets:
+  + Include your in game name and the server/service the ticket is about.
+
 For issues:
   + Read through all the open issues and make sure no one else has submitted it before you.
   + Be polite and respectful.
