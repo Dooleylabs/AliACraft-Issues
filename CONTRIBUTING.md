@@ -4,6 +4,7 @@ For issues:
   + If your issue involves a log, please include the full log, not just parts of it.
   + If your issue is lag or FPS related, include some form of profiling data, and in depth PC specifications. We will not help otherwise.
   + If the issue can be visualized, provide imgur, puu.sh, gyazo, and or youtube links. Any other forms of imagery will not be clicked.
+  + Do not include any personal information of you and or others, this includes realnames, IP's, skypes, etc.
   
 For requests:
   + Read through open/closed tickets and make sure someone before you hasn't already requested it.
