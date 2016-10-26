@@ -14,3 +14,6 @@ For requests:
   + Be polite and respectul.
   + Details, if you can't visualize it yourself don't expect us to do it for you.
   + List the potential benefits and pitfalls. We obviously won't accept any ideas if they are meaningless.
+
+
+**Submit bugs [here](https://github.com/NachtRaben/AliACraft-Issues/issues).**
